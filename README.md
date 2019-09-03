@@ -1,3 +1,3 @@
 # SDM-Intro
-Introduction to species distribution modelling
-Course materials
+Course materials for an "Introduction to species distribution modelling"
+
